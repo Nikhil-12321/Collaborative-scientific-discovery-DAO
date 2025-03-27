@@ -1,0 +1,15 @@
+[package]
+name = "Collaborative-scientific-discovery-DAO-of-project"
+version = "1.0.0"
+authors = []
+
+[addresses]
+CollaborativeDAO = "0xbed345307a3b75cada165205bba39afe944534e6d9eff5d640cb4d24071ff284"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
