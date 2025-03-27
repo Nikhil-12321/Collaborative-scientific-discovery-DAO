@@ -19,4 +19,6 @@ The vision of this project is to revolutionize scientific research by enabling g
 
 This project is a step toward democratizing scientific discovery by fostering collaboration, transparency, and innovation in the research community.
 0x047648eebe81f14de3a75c710dc756f2bc8b362c3ad663ba2c20440980d0d202
+![Screenshot (51)](https://github.com/user-attachments/assets/ba841d44-cb54-44e9-a8d5-70abc7ed0fc4)
+
 ---
